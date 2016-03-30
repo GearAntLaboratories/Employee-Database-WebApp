@@ -1,0 +1,3 @@
+[29-Mar-2016 02:37:11 America/New_York] PHP Notice:  Undefined index: id in /home/grantfpu/public_html/employee-database/modifyEmployee.php on line 68
+[29-Mar-2016 02:37:12 America/New_York] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100020 Library:100106 in /home/grantfpu/public_html/employee-database/Includes/db.php on line 34
+[29-Mar-2016 02:37:12 America/New_York] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:100020 Library:100106 in /home/grantfpu/public_html/employee-database/Includes/db.php on line 34
